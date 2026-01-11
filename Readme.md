@@ -3,7 +3,7 @@
 - LLMs don’t have memory, state, or tools
 
 - They only have text.
-
+jask
 When you send a prompt to an LLM, this is all it sees:
 
 ```bash
