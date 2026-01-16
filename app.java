@@ -1,4 +1,4 @@
-package com.example.myapplication;
+package com.example.myapplication
 public class Click extends AppCompatActivity {
     Button btnno1;
     protected void onCreate(Bundle savedInstanceState) {
