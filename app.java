@@ -10,4 +10,4 @@ public class Click extends AppCompatActivity {
                 Intent intent = new Intent(click.this, Signin.class);
                 startActivity(intent);
             )}};
-        
+        package 
