@@ -1,5 +1,5 @@
 # Model Context Protocol 
-## Fundamental Problems
+## Fundamentals Problem
 - LLMs don’t have memory, state, or tools
 
 - They only have text.
