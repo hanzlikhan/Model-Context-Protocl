@@ -220,7 +220,5 @@ MCP is a standardized context gateway.
 
 MCP is a protocol that lets LLMs safely, dynamically, and reliably access external capabilities through structured context.
 
-Not prompts.
-Not hacks.
-A protocol.
+
 
